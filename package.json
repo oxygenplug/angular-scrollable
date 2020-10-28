@@ -1,6 +1,6 @@
 {
   "name": "@oxygenplug/angular-scrollable-2020",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Fancy pants scrolling for angular apps",
   "main": "index.js",
   "directories": {
